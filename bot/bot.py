@@ -4,7 +4,7 @@ from telebot import types
 import query
 import asyncio
 
-bot = AsyncTeleBot('5879745106:AAFs66VmDwMYGTWhAcGmH0nySUuipagCaAU')
+bot = AsyncTeleBot('5879745106:AAFs66VmDwMYGTWhAcGmH0nySUuipagCaAU') # Это секретная информация! Не смотрите сюда, пожалуйста (◕‿◕)
 board = []
 now_x = 0
 now_y = 0
